@@ -1,3 +1,3 @@
 # maps
 
-CS61 Course Project
+CS61A Course Project
